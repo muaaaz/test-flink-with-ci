@@ -1,0 +1,7 @@
+.idea
+target/
+.gradle/
+common/build/
+test-comment/build/
+.bsp/
+project/
